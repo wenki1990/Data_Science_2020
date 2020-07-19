@@ -1,5 +1,5 @@
-Have hands-on experience on all machine learning and deep learning algorithms.
-Knows Python, R, Tableau, PySpark, SQL, Keras with TensorFlow as backend.
+Have hands-on experience on Machine Learning and Deep Learning algorithms.
+Proficient in  Python, R, Tableau, PySpark, SQL, Keras with TensorFlow as backend.
 
 Repository is still being updated.. 19-07-2020
 
